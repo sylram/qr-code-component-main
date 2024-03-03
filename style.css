@@ -40,7 +40,7 @@ body {
 
 .secondary-text{
   display: block;
-  /* padding-top: 0 10px; */
+
   font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
