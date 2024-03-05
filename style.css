@@ -7,14 +7,14 @@ body {
 .container {
   
     width: 300px;
-    height: 450px;
+    height: 470px;
     background-color: hsl(0, 0%, 100%);
     position: absolute;
     display: block;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding: 10px;
+    padding: 2px;
     border-radius: 20px;
     font-family: sans-serif;
   
@@ -23,7 +23,7 @@ body {
 .img-center{
   width: 280px;
   border-radius: 20px;
-  margin: 10px 10px 0 10px;
+  margin: 10px 10px 5px 10px;
 }
 
 .content {
@@ -33,14 +33,14 @@ body {
 }
 
 .title{
-  font-weight: 800;
+  font-weight: 900;
   font-size: 18px;
   color: hsl(218, 44%, 22%);
 }
 
 .secondary-text{
   display: block;
-
+  padding-top: 4px;
   font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
